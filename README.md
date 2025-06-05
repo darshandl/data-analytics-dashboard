@@ -72,7 +72,7 @@ Sources include:
 
 ## 🖼️ Preview
 
-![Preview](Screenshots/preview.jpg)
+![Preview_1](./Screenshots/recovery_overview.png)
 
 ---
 
