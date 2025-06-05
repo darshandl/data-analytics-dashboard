@@ -72,8 +72,8 @@ Sources include:
 
 ## 🖼️ Preview
 
-![Preview_1](./Screenshots/Product_team.jpg)
-![Preview_2](./Screenshots/logistic_team.jpg)
+![Preview_1](./Screenshots/Product_team.JPG)
+![Preview_2](./Screenshots/logistic_team.JPG)
 
 ---
 
